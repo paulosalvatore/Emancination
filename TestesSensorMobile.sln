@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesSensorMobile", "Assembly-CSharp-firstpass.csproj", "{497934B3-FD4F-A117-0CD8-5C54006AB958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesSensorMobile", "Assembly-CSharp.csproj", "{69FF5A7E-C299-E153-8B29-7D9D3A512B8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesSensorMobile", "Assembly-CSharp-Editor.csproj", "{CD158430-D063-C798-B374-A340F68C2336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497934B3-FD4F-A117-0CD8-5C54006AB958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497934B3-FD4F-A117-0CD8-5C54006AB958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497934B3-FD4F-A117-0CD8-5C54006AB958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497934B3-FD4F-A117-0CD8-5C54006AB958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FF5A7E-C299-E153-8B29-7D9D3A512B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FF5A7E-C299-E153-8B29-7D9D3A512B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FF5A7E-C299-E153-8B29-7D9D3A512B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FF5A7E-C299-E153-8B29-7D9D3A512B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD158430-D063-C798-B374-A340F68C2336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD158430-D063-C798-B374-A340F68C2336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD158430-D063-C798-B374-A340F68C2336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD158430-D063-C798-B374-A340F68C2336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

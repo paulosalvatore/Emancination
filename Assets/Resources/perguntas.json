@@ -1,0 +1,1074 @@
+{
+  "estagios": [
+    {
+      "perguntas": [
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 1,
+                "pergunta": -1
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perguntas": [
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 2,
+                "pergunta": -1
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 1
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 2,
+                "pergunta": 0
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 1,
+              "educacao": 2,
+              "saude": 1
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "evento": "nuclear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perguntas": [
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 3,
+                "pergunta": -1
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 2
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 3,
+                "pergunta": 0
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 1,
+              "educacao": 2,
+              "saude": 1
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 3,
+                "pergunta": 1
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 2,
+              "jornal": 1
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 3,
+                "pergunta": 2
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 2,
+              "saude": 0,
+              "jornal": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perguntas": [
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 4,
+                "pergunta": -1
+              },
+              "economia": 2,
+              "emprego": 2,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 1
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 4,
+                "pergunta": 0
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 2
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 4,
+                "pergunta": 1
+              },
+              "economia": 3,
+              "emprego": 1,
+              "felicidade": 1,
+              "educacao": 3,
+              "saude": 0,
+              "jornal": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 4,
+                "pergunta": 2
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 1,
+              "educacao": 2,
+              "saude": 1,
+              "jornal": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 4,
+                "pergunta": 3
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 1,
+              "jornal": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 4,
+                "pergunta": 4
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 2,
+              "jornal": 3
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 4,
+                "pergunta": 5
+              },
+              "economia": 3,
+              "emprego": 1,
+              "felicidade": 0,
+              "educacao": 2,
+              "saude": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 4,
+                "pergunta": 6
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 2,
+              "saude": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perguntas": [
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": -1
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 1,
+              "evento": "predio"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 0
+              },
+              "economia": 2,
+              "emprego": 2,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 1
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 1
+              },
+              "economia": 0,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 2,
+              "evento": "predio",
+              "jornal": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 2
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 2,
+              "jornal": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 3
+              },
+              "economia": 2,
+              "emprego": 2,
+              "felicidade": 1,
+              "educacao": 3,
+              "saude": 0,
+              "evento": "predio",
+              "jornal": 4
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 4
+              },
+              "economia": 3,
+              "emprego": 1,
+              "felicidade": 0,
+              "educacao": 2,
+              "saude": 0,
+              "jornal": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 5
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 1,
+              "educacao": 2,
+              "saude": 1,
+              "evento": "predio",
+              "jornal": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 6
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 1,
+              "saude": 1,
+              "jornal": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 7
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 1,
+              "evento": "predio",
+              "jornal": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 8
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 1,
+              "educacao": 1,
+              "saude": 1,
+              "jornal": 5
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 9
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 1,
+              "evento": "predio"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 10
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 1,
+              "educacao": 1,
+              "saude": 2
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 11
+              },
+              "economia": 2,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 2,
+              "saude": 0,
+              "evento": "predio"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 12
+              },
+              "economia": 3,
+              "emprego": 1,
+              "felicidade": 0,
+              "educacao": 1,
+              "saude": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 13
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 0,
+              "educacao": 2,
+              "saude": 0,
+              "evento": "predio"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 5,
+                "pergunta": 14
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 1,
+              "saude": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perguntas": [
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": -1
+              },
+              "economia": 0,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 2,
+              "evento": "estrada"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 0
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 1
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 1
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 2,
+              "evento": "estrada",
+              "jornal": 6
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 2
+              },
+              "economia": 2,
+              "emprego": 2,
+              "felicidade": 1,
+              "educacao": 1,
+              "saude": 1,
+              "jornal": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 3
+              },
+              "economia": 0,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 3,
+              "evento": "estrada",
+              "jornal": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 4
+              },
+              "economia": 0,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 2,
+              "jornal": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 5
+              },
+              "economia": 0,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 3,
+              "evento": "estrada",
+              "jornal": 6
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 6
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 1,
+              "educacao": 1,
+              "saude": 2,
+              "jornal": 6
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 7
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 3,
+              "saude": 1,
+              "evento": "estrada",
+              "jornal": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 8
+              },
+              "economia": 2,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 2,
+              "saude": 0,
+              "jornal": 7
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 9
+              },
+              "economia": 2,
+              "emprego": 2,
+              "felicidade": 1,
+              "educacao": 3,
+              "saude": 1,
+              "evento": "estrada",
+              "jornal": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 10
+              },
+              "economia": 3,
+              "emprego": 1,
+              "felicidade": 0,
+              "educacao": 1,
+              "saude": 0,
+              "jornal": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 11
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 3,
+              "saude": 2,
+              "evento": "estrada",
+              "jornal": 0
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 12
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 0,
+              "educacao": 1,
+              "saude": 1,
+              "jornal": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 13
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 1,
+              "educacao": 1,
+              "saude": 2,
+              "evento": "estrada",
+              "jornal": 8
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 14
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 0,
+              "saude": 1,
+              "jornal": 9
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 15
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 2,
+              "evento": "estrada",
+              "jornal": 10
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 16
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 0,
+              "saude": 1,
+              "jornal": 11
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 17
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 2,
+              "evento": "estrada"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 18
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 0,
+              "saude": 1
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 19
+              },
+              "economia": 0,
+              "emprego": 3,
+              "felicidade": 3,
+              "educacao": 3,
+              "saude": 2,
+              "evento": "estrada"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 20
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 1,
+              "educacao": 1,
+              "saude": 1
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 21
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 2,
+              "educacao": 2,
+              "saude": 3,
+              "evento": "estrada"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 22
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 0,
+              "educacao": 0,
+              "saude": 2
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 23
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 1,
+              "educacao": 3,
+              "saude": 1,
+              "evento": "estrada"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 24
+              },
+              "economia": 2,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 1,
+              "saude": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 25
+              },
+              "economia": 2,
+              "emprego": 2,
+              "felicidade": 1,
+              "educacao": 2,
+              "saude": 1,
+              "evento": "estrada"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 26
+              },
+              "economia": 3,
+              "emprego": 1,
+              "felicidade": 0,
+              "educacao": 0,
+              "saude": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 27
+              },
+              "economia": 1,
+              "emprego": 3,
+              "felicidade": 1,
+              "educacao": 3,
+              "saude": 1,
+              "evento": "estrada"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 28
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 0,
+              "educacao": 1,
+              "saude": 0
+            }
+          ]
+        },
+        {
+          "escolhas": [
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 29
+              },
+              "economia": 2,
+              "emprego": 3,
+              "felicidade": 1,
+              "educacao": 2,
+              "saude": 1,
+              "evento": "estrada"
+            },
+            {
+              "proximaPergunta": {
+                "estagio": 6,
+                "pergunta": 30
+              },
+              "economia": 3,
+              "emprego": 2,
+              "felicidade": 0,
+              "educacao": 0,
+              "saude": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "perguntas": {
+        "1": {
+          "escolhas": [
+            {
+              "jornal": 12
+            },
+            {
+              "jornal": 0
+            }
+          ]
+        },
+        "2": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 0
+            }
+          ]
+        },
+        "3": {
+          "escolhas": [
+            {
+              "jornal": 13
+            },
+            {
+              "jornal": 15
+            }
+          ]
+        },
+        "4": {
+          "escolhas": [
+            {
+              "jornal": 14
+            },
+            {
+              "jornal": 0
+            }
+          ]
+        },
+        "5": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 16
+            }
+          ]
+        },
+        "6": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 17
+            }
+          ]
+        },
+        "7": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 0
+            }
+          ]
+        },
+        "8": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 18
+            }
+          ]
+        },
+        "9": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 19
+            }
+          ]
+        },
+        "10": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 20
+            }
+          ]
+        },
+        "11": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 0
+            }
+          ]
+        },
+        "12": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 20
+            }
+          ]
+        },
+        "13": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 21
+            }
+          ]
+        },
+        "14": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 21
+            }
+          ]
+        },
+        "15": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 22
+            }
+          ]
+        },
+        "16": {
+          "escolhas": [
+            {
+              "jornal": 0
+            },
+            {
+              "jornal": 23
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
